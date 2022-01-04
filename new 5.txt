@@ -1,0 +1,55 @@
+-----Amazon Redshift-----
+
+Amazon Redshift is a fast, fully managed, petabyte-scale data warehouse service that makes 
+it simple and cost-effective to efficiently analyze all your data using your existing business intelligence tools.
+It is optimized for datasets ranging from a few hundred gigabytes to a petabyte or more and costs less than $1,000 per terabyte per year,
+ a tenth the cost of most traditional data warehousing solutions.
+	
+	 
+ **Loading and querying sample data--
+ In this guide section, get started with creating a Redshift cluster by using a sample dataset.
+ When the cluster is created, you can immediately query the data in the Amazon Redshift query editor
+ 
+ **Getting started with the Redshift console--
+ In this video, walk through all the functions and features of the Redshift console, such as creating a cluster,
+ using the query editor, and performing query monitoring.
+ 
+ **Analyzing your data--     
+ *Loading and querying your own data
+ *Querying data sources outside your Redshift cluster
+ *Training ML models with Redshift data
+	
+ **Administering Amazon Redshift--
+ *Managing database security- --Manage database security by controlling which users have access to which database objects in Amazon Redshift.
+     Allow access to different database objects in your Redshift cluster by granting different privileges to user accounts or groups.
+ *Managing clusters -- --Perform cluster operations after your Redshift cluster is created, such as resizing, pausing, resuming, renaming, and deleting.
+ 
+ Amazon Redshift provides 64-bit ODBC drivers for Linux, Windows, and macOS X operating systems. The 32-bit ODBC drivers are discontinued. 
+ Further updates will not be released, except for urgent security patches.
+	 
+ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ------Redis-------
+ Redis Enterprise Cloud on AWS is a fully managed database-as-a-service trusted by thousands of customers for high performance,
+ infinite scalability, true high availability, and best-in-class support.it is a self managed cache.conneted for OSS-Redis to Amazon ElastiCache and cloud
+		
+ Redis useing--
+ Redis is a great choice for implementing a highly available in-memory cache to decrease data access latency, increase throughput,
+ and ease the load off your relational or NoSQL database and application.
+ -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ --------Amazon rds(Relational Database Service)-------------
+ Amazon Relational Database Service (Amazon RDS) is a web service that makes it easier to set up, operate, and scale a relational database in the cloud. It provides cost-efficient,
+ resizable capacity for an industry-standard relational database and manages common database administration tasks
+ **Amazon RDS in the AWS CLI Reference
+ **Performance Insights in the AWS CLI Reference
+ **Amazon RDS API  
+ 
+ 
+ amazon rds api insighn and the aws cli Refrence relation data base and manage cooman data base administration data base 
+ 
+ 
+ 
+
+ 
+ 
+ 
+-----------------------------**----------------------------**------------------------------**-----------------------------**------------------------------**------------------------------**------------------------**--------------------------**---------------------------

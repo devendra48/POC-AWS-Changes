@@ -1,0 +1,11 @@
+amazonProperties:
+  endpointUrl: https://s3.us-east-2.amazonaws.com
+  accessKey: AKIAUX7MCFTWPSZBKV6D
+  secretKey: 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
+  bucketName: dataaws
+  spring:
+  servlet:
+  multipart:
+  max-file-size: 100MB
+  max-request-size:  100MB
+ 

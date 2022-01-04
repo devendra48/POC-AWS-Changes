@@ -1,0 +1,35 @@
+              Aws s3 bucket and EC2
+	
+Access Point alias : upload-gzrs99m17og85yacsg3g98aqf8q4yusw2a-s3alias
+
+	
+Access : Bucket and objects not public
+
+Amazon S3 :https://s3.console.aws.amazon.com/s3/home?region=us-west-2&region=us-west-2
+
+Ec2 : https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#Instances:instanceState=running;sort=instanceState
+
+intance : https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#
+pem : ssh -i "KKKKK.pem" ec2-user@ec2-3-88-144-134.compute-1.amazonaws.com
+
+MFA : https://console.aws.amazon.com/iamv2/home?#/home
+
+aws account : 326375714028
+user name : admin
+password :
+
+
+
+AWS S3:
+User name:Admin2
+Access key id:AKIAUX7MCFTWPSZBKV6D
+Secret Access key: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
+
+AWS Region
+US East (Ohio) us-east-2
+
+S3 URI
+s3://amzs3/S3/
+
+Amazon Resource Name (ARN)
+arn:aws:s3:::amzs3/S3/
